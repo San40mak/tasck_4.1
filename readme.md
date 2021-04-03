@@ -10,9 +10,12 @@ LICENSE: [MIT](./license.md)
 1. [introduction](./introduction.md)
 2. [installation](./instal.md)
 3. basic operations
-	- [git init](./init.md)
+	- [git init](./init.md) 
 	- [git add](./add.md)
 	- [git commit](./commit.md)
+	- [git push](./push.md)
+	- [git pull](./pull.md)
+4.
 
 
 
