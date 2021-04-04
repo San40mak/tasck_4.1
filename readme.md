@@ -10,7 +10,7 @@ LICENSE: [MIT](./license.md)
 1. [introduction](./introduction.md) - Введение
 2. [installation](./instal.md) - Установка и настройка
 3. [branch](./branch.md) - Ветвление в GIT
-4. basic operations
+4. [basic operations](./commands.md) - Основные операции
 	- [git init](./init.md)  - Создание нового репозитория
 	- [git add](./add.md) - Добавление файлов в репозиторий
 	- [git commit](./commit.md) - Коммит изменений
